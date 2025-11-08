@@ -25,10 +25,10 @@ const Auth = () => {
           <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-primary rounded-2xl mb-4 shadow-medium">
             <Search className="w-8 h-8 text-primary-foreground" />
           </div>
-          <h1 className="text-4xl font-bold mb-3 bg-gradient-primary bg-clip-text text-transparent">
+          <h1 className="text-4xl font-bold mb-4 leading-tight bg-gradient-primary bg-clip-text text-transparent">
             ImageVault
           </h1>
-          <p className="text-muted-foreground text-sm">
+          <p className="text-muted-foreground text-sm mt-2">
             Discover and collect beautiful images
           </p>
         </div>
